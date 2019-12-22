@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# first_rails_app
+Web Development 101 - The Odin Project
+>>>>>>> d7ae18b1af3af32fc1b1705c815619f86eb3b301
